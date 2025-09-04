@@ -82,7 +82,7 @@ Stores personal info and manages all cards.
 ## 🎯 Sample Use Case  
 
 ```cpp
-CardHolder user("Raghavendra", "Karnataka", "raghavendrasadare@gmail.com", "9380616288", 900);
+CardHolder user("Kartik", "Karnataka", "kartikharishettar@gmail.com", "9986263235", 950);
 
 user.applyCreditCard();               // Issues Platinum Card  
 user.pay("Amazon", 3000.0, &user);    // Makes a secure transaction  
